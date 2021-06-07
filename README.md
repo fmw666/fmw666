@@ -26,7 +26,7 @@
               <td>
                 <img width="550" alt="profile photo" src="/img/avatar.png" class="hoverZoomLink">
                 <br><br>
-                <p align='center'><img src="img/avatar.jpg" alt="visitor badge"/></p>
+                <p align='center'><img src="https://visitor-badge.glitch.me/badge?page_id=fmw666.fmw666" alt="visitor badge"/></p>
               </td>
           </tr>
       </tbody>
