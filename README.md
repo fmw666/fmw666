@@ -24,7 +24,7 @@
                 </p>
               </td>
               <td>
-                <img width="550" alt="profile photo" src="http://www.terrytengli.com/imgs/tengli_circle.png" class="hoverZoomLink">
+                <img width="550" alt="profile photo" src="img/avatar.jpg" class="hoverZoomLink">
                 <br><br>
                 <p align='center'><img src="img/avatar.jpg" alt="visitor badge"/></p>
               </td>
