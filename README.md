@@ -15,7 +15,7 @@
                   💻 I'm doing now(我现在所从事的)...
                 </p>
                 <p align='center'>
-                  <img src="https://img.shields.io/github/followers/fmw666" />
+                  <img src="https://img.shields.io/github/followers/fmw666?label=flower%20me%28%E5%85%B3%E6%B3%A8%E6%88%91%29" />
                   <img src="https://img.shields.io/badge/Intel-I5--10400f-blue" />
                   <img src="https://img.shields.io/badge/RAM-32 GB-blue" />
                 </p>
