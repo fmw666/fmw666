@@ -50,8 +50,7 @@
 
 ---
 
-**fmw666/fmw666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-If you are ✨ interested ✨ in what I have presented(如果您对我所展示的东西感兴趣), please feel free to _contact_ me(欢迎 _联系_ 我)～
+> If you are ✨ interested ✨ in what I have presented(如果您对我所展示的东西感兴趣), please feel free to _contact_ me(欢迎 _联系_ 我)～
 
 - 📫 How to contact me(如何联系我): 
 
