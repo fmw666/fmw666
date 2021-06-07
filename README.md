@@ -12,7 +12,7 @@
                   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=fmw666&hide=prs&hide_title=true&count_private=true&show_icons=true&bg_color=black&title_color=446170&text_color=ffffff&icon_color=000000&hide_border=true&cache_seconds=1800&locale=en&border_radius=45" width="300"></a>
                 </p>
                 <p align='center'>
-                  💻 ITX Work Station Setting
+                  💻 I'm doing now(我现在所从事的)...
                 </p>
                 <p align='center'>
                   <img src="https://img.shields.io/badge/Ubuntu-20.04LTS-orange" />
