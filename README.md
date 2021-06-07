@@ -1,4 +1,4 @@
-### Welcome!(欢迎访问！) 👋
+### Welcome(欢迎访问)! 👋
 
 <code>
   <table border="0" >
@@ -9,7 +9,7 @@
                 <p align='center'>📫&nbsp;<b><a href="mailto:fmw19990718@qq.com">fmw19990718@qq.com</a></b></p>
                 <p align='center'>birthday(出生日期): 1999-07-18. current city(目前所在城市): Wuhan(武汉)
                 <p align='center'>
-                  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=fmw666&hide=prs&hide_title=true&count_private=true&show_icons=true&bg_color=c5d5de&title_color=446170&text_color=ffffff&icon_color=000000&hide_border=true&cache_seconds=1800&locale=en&border_radius=45" width="300"></a>
+                  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=fmw666&hide=prs&hide_title=true&count_private=true&show_icons=true&bg_color=black&title_color=446170&text_color=ffffff&icon_color=000000&hide_border=true&cache_seconds=1800&locale=en&border_radius=45" width="300"></a>
                 </p>
                 <p align='center'>
                   💻 ITX Work Station Setting
