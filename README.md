@@ -10,7 +10,7 @@
                 <p align='center'>📫&nbsp;<b><a href="mailto:fmw19990718@qq.com">fmw19990718@qq.com</a></b></p>
                 <p align='center'>birthday(出生日期): 1999-07-18. current city(目前所在城市): Wuhan(武汉)
                 <p align='center'>
-                  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=fmw666&show_icons=true&theme=radical" width="300"></a>
+                  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=fmw666&show_icons=true&theme=radical&border_radius=45" width="300"></a>
                 </p>
                 <p align='center'>
                   💻 I'm doing now(我现在所从事的)...
