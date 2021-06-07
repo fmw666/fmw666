@@ -25,7 +25,7 @@
                 </p>
               </td>
               <td>
-                <p align='center'><img width="550" src="img/avatar.jpg" alt="profile photo" /></p>
+                <p align='center'><img width="400" src="img/avatar.jpg" alt="profile photo" /></p>
                 <br><br>
                 <p align='center'><img src="https://visitor-badge.glitch.me/badge?page_id=fmw666.fmw666" alt="visitor badge"/></p>
               </td>
@@ -62,5 +62,5 @@
 
 <br>
 
-<div align="right">查看本页面代码</div>
+<div align="right"><a href="https://github.com/fmw666/fmw666/">查看本页面源代码 ➡</a></div>
 
