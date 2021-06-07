@@ -13,6 +13,9 @@
                   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=fmw666&show_icons=true&theme=radical&border_radius=45" width="300"></a>
                 </p>
                 <p align='center'>
+                  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&border_radius=45&theme=radical" width="300"></a>
+                </p>
+                <p align='center'>
                   💻 I'm doing now(我现在所从事的)...
                 </p>
                 <p align='center'>
