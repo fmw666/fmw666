@@ -24,7 +24,7 @@
                 </p>
               </td>
               <td>
-                <img width="550" alt="profile photo" src="img/avatar.png" class="hoverZoomLink">
+                <img width="550" alt="profile photo" src="https://github.com/fmw666/fmw666/blob/main/img/avatar.png" class="hoverZoomLink">
                 <br><br>
                 <p align='center'><img src="img/avatar.jpg" alt="visitor badge"/></p>
               </td>
