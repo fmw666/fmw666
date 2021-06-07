@@ -26,7 +26,7 @@
               <td>
                 <img width="550" alt="profile photo" src="http://www.terrytengli.com/imgs/tengli_circle.png" class="hoverZoomLink">
                 <br><br>
-                <p align='center'><img src="https://visitor-badge.glitch.me/badge?page_id=litun5315.litun5315" alt="visitor badge"/></p>
+                <p align='center'><img src="img/avatar.jpg" alt="visitor badge"/></p>
               </td>
           </tr>
       </tbody>
