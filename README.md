@@ -18,9 +18,6 @@
                   <img src="https://img.shields.io/badge/Ubuntu-20.04LTS-orange" />
                   <img src="https://img.shields.io/badge/Intel-I5--10400f-blue" />
                   <img src="https://img.shields.io/badge/RAM-32 GB-blue" />
-                  <img src="https://img.shields.io/badge/SSD-RD10 1T-black" />
-                  <img src="https://img.shields.io/badge/HDD-WD 4T-black" />
-                  <img src="https://img.shields.io/badge/Nvidia-Titan Xp-green" />
                 </p>
               </td>
               <td>
