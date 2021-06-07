@@ -36,7 +36,7 @@
 
 <details>
 <summary>
-  <b>Latest posts</b>
+  <b>Latest posts(最新提交)</b>
 </summary>
 
 <!-- BLOG-POST-LIST:START -->
