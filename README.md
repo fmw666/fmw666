@@ -25,7 +25,7 @@
                 </p>
               </td>
               <td>
-                <p align='center'><img width="550" src="https://www.imagehub.cc/image/avatar.j3gpH" alt="profile photo" /></p>
+                <p align='center'><img width="550" src="img/avatar.jpg" alt="profile photo" /></p>
                 <br><br>
                 <p align='center'><img src="https://visitor-badge.glitch.me/badge?page_id=fmw666.fmw666" alt="visitor badge"/></p>
               </td>
