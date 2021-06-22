@@ -8,8 +8,7 @@
                 <p></p>
                 <p align='center'><b>Maovo-小范</b></p>
                 <p align='center'>📫&nbsp;<b><a href="mailto:fmw19990718@qq.com">fmw19990718@qq.com</a></b></p>
-                <p align='center'>birthday(出生日期): 1999-07-18. current city(目前所在城市): Wuhan(武汉)
-                
+                <p align='center'>birthday(出生日期): 1999-07-18. current city(目前所在城市): Wuhan(武汉)</p>
                 <p align='center'>
                   💻 I'm doing now(我现在所从事的)...
                 </p>
