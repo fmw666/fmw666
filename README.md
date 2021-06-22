@@ -19,14 +19,14 @@
                 </p>
               </td>
               <td>
+                <br>
                 <p align='center'>
                   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=fmw666&show_icons=true&theme=radical&border_radius=45" width="300"></a>
                 </p>
                 <p align='center'>
                   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmw666&border_radius=45&theme=radical&layout=compact" width="300"></a>
                 </p>
-                <br><br>
-                <p align='center'><img src="https://visitor-badge.glitch.me/badge?page_id=fmw666.fmw666" alt="visitor badge"/></p>
+                <br>
               </td>
           </tr>
       </tbody>
