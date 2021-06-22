@@ -9,12 +9,7 @@
                 <p align='center'><b>Maovo-小范</b></p>
                 <p align='center'>📫&nbsp;<b><a href="mailto:fmw19990718@qq.com">fmw19990718@qq.com</a></b></p>
                 <p align='center'>birthday(出生日期): 1999-07-18. current city(目前所在城市): Wuhan(武汉)
-                <p align='center'>
-                  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=fmw666&show_icons=true&theme=radical&border_radius=45" width="300"></a>
-                </p>
-                <p align='center'>
-                  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmw666&border_radius=45&theme=radical&layout=compact" width="300"></a>
-                </p>
+                
                 <p align='center'>
                   💻 I'm doing now(我现在所从事的)...
                 </p>
@@ -25,7 +20,12 @@
                 </p>
               </td>
               <td>
-                <p align='center'><img width="400" src="img/avatar.jpg" alt="profile photo" /></p>
+                <p align='center'>
+                  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=fmw666&show_icons=true&theme=radical&border_radius=45" width="300"></a>
+                </p>
+                <p align='center'>
+                  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmw666&border_radius=45&theme=radical&layout=compact" width="300"></a>
+                </p>
                 <br><br>
                 <p align='center'><img src="https://visitor-badge.glitch.me/badge?page_id=fmw666.fmw666" alt="visitor badge"/></p>
               </td>
