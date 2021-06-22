@@ -19,7 +19,7 @@
                 </p>
               </td>
               <td>
-                <br>
+                <p></p><p></p>
                 <p align='center'>
                   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=fmw666&show_icons=true&theme=radical&border_radius=45" width="300"></a>
                 </p>
