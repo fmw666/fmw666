@@ -21,10 +21,10 @@
               <td>
                 <p></p><p></p>
                 <p align='center'>
-                  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=fmw666&show_icons=true&theme=radical&border_radius=45" width="300"></a>
+                  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=fmw666&show_icons=true&theme=dracula&border_radius=45" width="300"></a>
                 </p>
                 <p align='center'>
-                  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmw666&border_radius=45&theme=radical&layout=compact" width="300"></a>
+                  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmw666&border_radius=45&theme=dracula&layout=compact" width="300"></a>
                 </p>
                 <br>
               </td>
@@ -38,15 +38,16 @@
   <b>📫 How to contact me(如何联系我)</b>
 </summary>
 
+<br>
+
 - QQ: 784958034
 - Wechat: f784958034
 - Email: fmw19990718@qq.com
+- `Please make a note or I may ignore your request(请做好备注，否则我可能将忽视您的请求)`
 
 </details>
 
 ---
-
-- 😄 How to Address Me(如何称呼我): **Maovo-小范**
 
 <br>
 
