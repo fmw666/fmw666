@@ -35,27 +35,16 @@
 
 <details>
 <summary>
-  <b>Latest posts(最新提交)</b>
+  <b>📫 How to contact me(如何联系我)</b>
 </summary>
 
-<!-- BLOG-POST-LIST:START -->
-- [Operating System - Process Control](https://www.terrytengli.com/blog/posts/2021/05/29/os_chp2/)
-- [Computer Architecture - Instructure Level Parallelism](https://www.terrytengli.com/blog/posts/2021/05/22/c_arc-ilp/)
-- [Computer Architecture - Interconnection Network](https://www.terrytengli.com/blog/posts/2021/05/22/c_arc-net/)
-- [Computer Architecture - I/O System](https://www.terrytengli.com/blog/posts/2021/05/19/c_arc-io/)
-- [Computer Architecture - Instruction Stucture](https://www.terrytengli.com/blog/posts/2021/05/13/c_arc-instruction/)
-<!-- BLOG-POST-LIST:END -->
+- QQ: 784958034
+- Wechat: f784958034
+- Email: fmw19990718@qq.com
+
 </details>
 
 ---
-
-> If you are ✨ interested ✨ in what I have presented(如果您对我所展示的东西感兴趣), please feel free to _contact_ me(欢迎 _联系_ 我)～
-
-- 📫 How to contact me(如何联系我): 
-
-  - QQ: 784958034
-  - Wechat: f784958034
-  - Email: fmw19990718@qq.com
 
 - 😄 How to Address Me(如何称呼我): **Maovo-小范**
 
