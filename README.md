@@ -6,9 +6,9 @@
           <tr>
               <td>
                 <p></p>
-                <p align='center'><b>Maovo-小范</b></p>
-                <p align='center'>📫&nbsp;<b><a href="mailto:fmw19990718@qq.com">fmw19990718@qq.com</a></b></p>
-                <p align='center'>birthday(出生日期): 1999-07-18. current city(目前所在城市): Wuhan(武汉)</p>
+                <p align='center'><b>😎 Austin</b></p>
+                <p align='center'>📫&nbsp;<b><a href="mailto:fmw19990718@gmail.com">fmw19990718@gmail.com</a></b></p>
+                <p align='center'>birthday(出生日期): 1999-07-18. current city(目前所在城市): Shenzhen(深圳)</p>
                 <p align='center'>
                   💻 I'm doing now(我现在所从事的)...
                 </p>
@@ -40,9 +40,8 @@
 
 <br>
 
-- QQ: 784958034
 - Wechat: f784958034
-- Email: fmw19990718@qq.com
+- Email: fmw19990718@gmail.com
 - `Please make a note or I may ignore your request(请做好备注，否则我可能将忽视您的请求)`
 
 </details>
